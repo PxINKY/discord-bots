@@ -1,0 +1,17 @@
+1) No redistributing of the client files.
+It is strictly prohibited to send the files to other users as this could be seen as an attempt to leak it.
+This applies to any form of the client, not just the loader DLL file.
+
+2) No malicious links/files.
+This includes
+- IP grabbers.
+- Screamers.
+- Links that could potentially grab information about one another.
+- Files that could log auth tokens.
+- Files that could destroy your operating system.
+- Content meant to trigger
+
+3) Reverse engineering is strictly disallowed.
+This one is self explanatory, there is a reason we obfuscate our clients to keep exploits unpatched, along with keeping the anticrash at it's peak.
+
+Breaking any of these rules above will result in an instant ban and blacklist from the client, this will simply not be tolerated.
