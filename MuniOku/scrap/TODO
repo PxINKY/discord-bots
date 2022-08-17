@@ -1,0 +1,64 @@
+
+@Bot.command(help="Adds a moderator to the json file")
+async def addmod(ctx):
+    x = "./Settings/moderators.json"
+    f = open(x, "r")
+    data = json.load(f)
+    f.close()
+    s = ""
+    z = 0
+    for m in data["Moderators"]:
+        s+=f"{z} - {m['GroupName']}\n"
+        z+=1
+    messageTo = await ctx.send(f"What moderation rank would you like to add them too?\n{s}")
+    try:
+        number = await Bot.wait_for('message', check=lambda message: message.author == ctx.author, timeout=10.0)
+    except asyncio.TimeoutError:
+        return await messageTo.edit(content=f"{ctx.author.mention} request timed out! Cancelling...")
+
+    if not number.content.isdigit():
+        return await messageTo.edit(content=f"{ctx.author.mention} Invalid input! Cancelling...")
+
+    if int(number.content) > len(data["Moderators"]) or int(number.content) < 0:
+        return await messageTo.edit(content=f"{ctx.author.mention} Invalid input! Cancelling...")
+
+    n = int(number.content)
+    await number.delete()
+#---------------------------------------------------------------------------------------------------------------------
+    try:
+        await messageTo.edit(content=f"{ctx.author.mention} please enter the ***Discord ID***\n(ex: 1234567890123456789)")
+        choice = await Bot.wait_for('message', check=lambda message: message.author == ctx.author, timeout=60.0)
+    except asyncio.TimeoutError:
+        return await messageTo.edit(content=f"{ctx.author.mention} request timed out! Cancelling...")
+
+    try:
+        if choice.content.isdigit():
+            user = await Bot.fetch_user(int(choice.content))
+    except:
+        return await messageTo.edit(content=f"{ctx.author.mention} User not found or Invalid Syntax! Cancelling...")
+
+    await choice.delete()
+#---------------------------------------------------------------------------------------------------------------------
+    try:
+        await messageTo.edit(content=f"{ctx.author.mention} please enter the ***VRChat ID or VRChat Link***\n(this is optional and can be added later)\n(ex: usr_0bd753d0-7e54-4e11-9baa-a6dc838b37ff)")
+        choice = await Bot.wait_for('message', check=lambda message: message.author == ctx.author, timeout=60.0)
+    except asyncio.TimeoutError:
+        return await messageTo.edit(content=f"{ctx.author.mention} request timed out! Cancelling...")
+
+    if choice.content.startswith("usr"):
+        vrchat = choice.content
+    else:
+        vrchat = ""
+
+
+
+
+    await choice.delete()
+    await messageTo.delete()
+    await ctx.send(f"{user.name}#{user.discriminator}\n{user.id}\n{vrchat}")
+
+    with open(x, "r") as file:
+        data = json.load(file)
+
+    data["Moderators"][n].append("{DiscordTag: \"" + f"{user.name}#{user.discriminator}" + "\",\nDiscordID: \"" + f'{user.id}' + "\",\nVRChatLink: \"" + "https://vrchat.com/home/user/" + vrchat + "\",\nVRChatID: \"" + vrchat + "\"}")
+

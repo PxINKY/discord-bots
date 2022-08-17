@@ -1,0 +1,36 @@
+{
+  "Emojis": [
+    {
+      "name": "MuniPawL",
+      "effective": "<:munipaw_2:962189806845186058>"
+    },
+    {
+      "name": "MuniPawR",
+      "effective": "<:munipaw_1:962189795889664050>"
+    },
+    {
+      "name": "MuniKek",
+      "effective": "<:munikek:962189835030900736>"
+    },
+    {
+      "name": "MuniHappy",
+      "effective": "<:munihappy:962189742030590003>"
+    },
+    {
+      "name": "HeadKekW",
+      "effective": "<:MuniKekW:963480944457711678>"
+    },
+    {
+      "name": "MuniLaugh",
+      "effective": "<:MuniLaugh:963480945816657960>"
+    },
+    {
+      "name": "MuniThink",
+      "effective": "<:MuniThink:963480945057476719>"
+    },
+    {
+      "name": "MuniHeart",
+      "effective": "<:MuniHeart:963480944675794984>"
+    }
+  ]
+}

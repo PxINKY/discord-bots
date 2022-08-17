@@ -1,0 +1,119 @@
+Name:
+Age:
+Gender/Pronouns:
+Hobbies:
+How you found this Discord server:
+A fun fact about yourself:
+
+
+
+q2 = EmbedBuilder(title="Question 2",
+                      description="What is your age?",
+                      color=mcol,
+                      thumbnail=Bot.user.avatar_url
+                      ).build()
+    q3 = EmbedBuilder(title="Question 3",
+                      description="What is your Gender/Pronouns?",
+                      color=mcol,
+                      thumbnail=Bot.user.avatar_url
+                      ).build()
+
+
+
+Owner
+ -
+
+Co-Owner
+Norsehawk#2541 - 272212843556765698
+Snoofer#0999 - 834939381193637899
+
+Super Admin
+Brod#8724 - 188408205255114752
+Lyrr#8798 - 916333033018257478
+Parkor99#0001 - 518756365867548682
+RelentlessDwarf#2400 - 341495916580306944
+Spidertail1128#0037 - 691749017373245560
+
+Executive admin
+Wolfgirl🇺🇦#2547 - 398621746464292874
+~clover the wo1f~#2597 - 786379393098317865
+
+Executive discord admin
+Soren#1792 - 164836120398528513
+
+World Admin
+HuskyGaming109#0001 - 727555617333444618
+Legenragon#9924 - 414485583449161728
+MedusaCascade#5247 - 327501211093958656
+Project Panthera#5877 - 399944746484760577
+SKYs#0666 - 689275889904648420
+
+Discord Admin
+kodagray#5555 - 703059212124553306
+world moderator
+Skew#0001 - 192058244380753920
+Aigiaon#7381 - 374426210605727744
+bloo the protogen#7508 - 498285954814181377
+Callidus Fox#3779 - 248590280637284353
+Cooled_Wolfie#3558 - 333468719772729346
+CyberTaco#5570 - 368142727298285589
+Dr.Mortum#4734 - 496367282667257867
+GameBreaker75#2348 - 311653382756499456
+IBringOda#6440 - 458542061319094293
+Gilded#0552 - 297235990194683905
+Tec#1502 - 134869338002948096
+LegoshiWolfy208#3506 - 812371946746282014
+NullJester#0111 - 426857123146760192
+Rig#6917 - 131917598639128577
+skrapthehusky#9922 - 350979778746122240
+pizzadog#1337 - 268890713872269313
+strix#2673 - 456538974794809344
+ImTim#7857 - 199929668378427392
+Matthew (0'5")#0696 - 361922415011430420
+Zander da folf#1056 - 808000868057088032
+
+Discord moderator
+ItsMeAudrey#4313 - 134464739198631945
+
+embed.add_field(name="**OWNER**", value="**>** [Phantomxz_](https://vrchat.com/home/user/usr_0bd753d0-7e54-4e11-9baa-a6dc838b37ff)", inline=False)
+    embed.add_field(name="**CO-OWNERS**", value=
+                                     "**>** [Norsehawk]()\n"
+                                     "**>** [Snoofer]()\n"
+                                     "**>** [Tucson_Rattler]()", inline=False)
+    embed.add_field(name="**SUPER ADMINS**", value=
+                                     "**>** [Broddy~](https://vrchat.com/home/user/usr_ab4c6515-61b2-40f8-b753-c1201e77c759)\n"
+                                     "**>** [Lyrr](https://vrchat.com/home/user/usr_027d5fae-08d5-4119-91f6-46b77a3b52d9)\n"
+                                     "**>** [Parkor99](https://vrchat.com/home/user/usr_ae42e819-edff-49cf-a71c-b7dece02a8a9)\n"
+                                     "**>** [RelentlessDwarf](https://vrchat.com/home/user/usr_be707509-e7f5-4f4e-985e-460b6ee592f2)\n"
+                                     "**>** [Tucker1277]()", inline=False)
+    embed.add_field(name="**EXECUTIVE ADMINS**", value=
+                                     "**>** [Wolfgirl🇺🇦](https://vrchat.com/home/user/usr_cfe0f989-5b8f-47a5-a7a3-f9c8f34cb198)\n"
+                                     "**>** [~clover the wo1f~]()", inline=False)
+    embed.add_field(name="**EXECUTIVE DISCORD ADMINS**", value=
+                                     "**>** [Kahlúa](https://vrchat.com/home/user/usr_e14d3c26-b8cb-4321-bb57-b997f7a255e4)", inline=True)
+    embed.add_field(name="**DISCORD ADMINS**", value=
+                                     "**>** [Truff](https://vrchat.com/home/user/usr_98c078af-9156-470f-8507-cd316b3f1265)\n"
+                                     "**>** [Sakura 🌸](https://vrchat.com/home/user/usr_8ef296ca-5e6f-4653-835c-c37b647c6693)", inline=False)
+    embed.add_field(name="**DISCORD MODERATORS**", value=
+                                     "**>** [~Audrey of Panda~]()", inline=False)
+    embed.add_field(name="**WORLD ADMIN**", value=
+                                     "**>** [DoctorJones](https://vrchat.com/home/user/usr_a39cf4b6-6750-4f1e-b7d5-68bf3f9a868d)\n"
+                                     "**>** [HuskeyGaming109]()\n"
+                                     "**>** [Legenragon](https://vrchat.com/home/user/usr_9fd7dcce-fa17-4266-b462-80bd756f61d0)\n"
+                                     "**>** [MedusaCascade]()\n"
+                                     "**>** [Project Panthera]()\n"
+                                     "**>** [Proxy]()\n"
+                                     "**>** [SkyFur](https://vrchat.com/home/user/usr_fb79043a-7fe6-4ee3-a452-a28841500012)", inline=True)
+    embed.add_field(name="**WORLD MODERATORS**", value=
+                                     "**>** [Skew]()\n"
+                                     "**>** [Vixourium](https://vrchat.com/home/user/usr_4b8ddaa4-581e-4588-bafd-282ad73a5002)\n"
+                                     "**>** [LegoshiWolfy208]()\n"
+                                     "**>** [EnderBoy002](https://vrchat.com/home/user/usr_edaca18b-7921-4876-bc5d-711b12c3731a)\n"
+                                     "**>** [Elton4510]()\n"
+                                     "**>** [CyberTaco](https://vrchat.com/home/user/usr_6b7bf63b-8373-4b4b-9723-d23622c9875a)\n"
+                                     "**>** [Zander da folf]()\n"
+                                     "**>** [Kabed](https://vrchat.com/home/user/usr_e3471bc9-bb53-4f5f-8b93-dfe26fb1ae5f)\n"
+                                     "**>** [Ninth Wound](https://vrchat.com/home/user/usr_d931392d-20b6-4564-944b-03249c7fe425)\n"
+                                     "**>** [Skrap_the_Husky]()\n"
+                                     "**>** [Oversimplified](https://vrchat.com/home/user/usr_106ac6bd-aa6f-4b03-9898-5951b9ae86f7)\n"
+                                     "**>** [Dr.Mortum]()", inline=True)

@@ -1,0 +1,325 @@
+{
+    "Moderators": [
+        {
+            "GroupName": "Owner",
+            "members": [
+                {
+                    "DiscordTag": "Phantomxz_#0001",
+                    "DiscordID": "123053708299862016",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_0bd753d0-7e54-4e11-9baa-a6dc838b37ff",
+                    "VRChatID": "usr_0bd753d0-7e54-4e11-9baa-a6dc838b37ff"
+                }
+            ]
+        },
+        {
+            "GroupName": "Co-Owner",
+            "members": [
+                {
+                    "DiscordTag": "Norsehawk#2541",
+                    "DiscordID": "272212843556765698",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Snoofer#0999",
+                    "DiscordID": "834939381193637899",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Tucson_Rattler#6808",
+                    "DiscordID": "584807911033929730",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                }
+            ]
+        },
+        {
+            "GroupName": "Super Admin",
+            "members": [
+                {
+                    "DiscordTag": "Brod#8724",
+                    "DiscordID": "188408205255114752",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_ab4c6515-61b2-40f8-b753-c1201e77c759",
+                    "VRChatID": "usr_ab4c6515-61b2-40f8-b753-c1201e77c759"
+                },
+                {
+                    "DiscordTag": "Lyrr#8798",
+                    "DiscordID": "916333033018257478",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_027d5fae-08d5-4119-91f6-46b77a3b52d9",
+                    "VRChatID": "usr_027d5fae-08d5-4119-91f6-46b77a3b52d9"
+                },
+                {
+                    "DiscordTag": "Parkor99#0001",
+                    "DiscordID": "518756365867548682",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_ae42e819-edff-49cf-a71c-b7dece02a8a9",
+                    "VRChatID": "usr_ae42e819-edff-49cf-a71c-b7dece02a8a9"
+                },
+                {
+                    "DiscordTag": "RelentlessDwarf#2400",
+                    "DiscordID": "341495916580306944",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_be707509-e7f5-4f4e-985e-460b6ee592f2",
+                    "VRChatID": "usr_be707509-e7f5-4f4e-985e-460b6ee592f2"
+                },
+                {
+                    "DiscordTag": "Spidertail1128#0037",
+                    "DiscordID": "691749017373245560",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                }
+            ]
+        },
+        {
+            "GroupName": "Executive Admin",
+            "members": [
+                {
+                    "DiscordTag": "Wolfgirl\ud83c\uddfa\ud83c\udde6#2547",
+                    "DiscordID": "398621746464292874",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_cfe0f989-5b8f-47a5-a7a3-f9c8f34cb198",
+                    "VRChatID": "usr_cfe0f989-5b8f-47a5-a7a3-f9c8f34cb198"
+                },
+                {
+                    "DiscordTag": "~clover the nardo~#2597",
+                    "DiscordID": "786379393098317865",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                }
+            ]
+        },
+        {
+            "GroupName": "Executive Discord Admin",
+            "members": [
+                {
+                    "DiscordTag": "Soren#1792",
+                    "DiscordID": "164836120398528513",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_e14d3c26-b8cb-4321-bb57-b997f7a255e4",
+                    "VRChatID": "usr_e14d3c26-b8cb-4321-bb57-b997f7a255e4"
+                }
+            ]
+        },
+        {
+            "GroupName": "Discord Admin",
+            "members": [
+                {
+                    "DiscordTag": "kodagray#5512",
+                    "DiscordID": "703059212124553306",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_8ef296ca-5e6f-4653-835c-c37b647c6693",
+                    "VRChatID": "usr_8ef296ca-5e6f-4653-835c-c37b647c6693"
+                }
+            ]
+        },
+        {
+            "GroupName": "Discord Moderator",
+            "members": [
+                {
+                    "DiscordTag": "ItsMeAudrey#4313",
+                    "DiscordID": "134464739198631945",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                }
+            ]
+        },
+        {
+            "GroupName": "World Admin",
+            "members": [
+                {
+                    "DiscordTag": "DoctorJones#7961",
+                    "DiscordID": "168296386163507209",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_a39cf4b6-6750-4f1e-b7d5-68bf3f9a868d",
+                    "VRChatID": "usr_a39cf4b6-6750-4f1e-b7d5-68bf3f9a868d"
+                },
+                {
+                    "DiscordTag": "~NuclearAvali~#0001",
+                    "DiscordID": "727555617333444618",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Legenragon#9924",
+                    "DiscordID": "414485583449161728",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_9fd7dcce-fa17-4266-b462-80bd756f61d0",
+                    "VRChatID": "usr_9fd7dcce-fa17-4266-b462-80bd756f61d0"
+                },
+                {
+                    "DiscordTag": "MedusaCascade#5247",
+                    "DiscordID": "327501211093958656",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_d8d3ba3e-d6bb-4d7c-b3c8-3c404ed74a08",
+                    "VRChatID": "usr_d8d3ba3e-d6bb-4d7c-b3c8-3c404ed74a08"
+                },
+                {
+                    "DiscordTag": "Project Panthera#5877",
+                    "DiscordID": "399944746484760577",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "SKYs#0224",
+                    "DiscordID": "689275889904648420",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_fb79043a-7fe6-4ee3-a452-a28841500012",
+                    "VRChatID": "usr_fb79043a-7fe6-4ee3-a452-a28841500012"
+                }
+            ]
+        },
+        {
+            "GroupName": "World Moderator",
+            "members": [
+                {
+                    "DiscordTag": "Vixourium#0015",
+                    "DiscordID": "670380663253499914",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_4b8ddaa4-581e-4588-bafd-282ad73a5002",
+                    "VRChatID": "usr_4b8ddaa4-581e-4588-bafd-282ad73a5002"
+                },
+                {
+                    "DiscordTag": "Skew#0001",
+                    "DiscordID": "192058244380753920",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Aigiaon#7381",
+                    "DiscordID": "374426210605727744",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "bloo the protogen#7508",
+                    "DiscordID": "498285954814181377",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Callidus Fox#3779",
+                    "DiscordID": "248590280637284353",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Cooled_Wolfie#3558",
+                    "DiscordID": "333468719772729346",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "CyberTaco#5570",
+                    "DiscordID": "368142727298285589",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_6b7bf63b-8373-4b4b-9723-d23622c9875a",
+                    "VRChatID": "usr_6b7bf63b-8373-4b4b-9723-d23622c9875a"
+                },
+                {
+                    "DiscordTag": "Dr.Mortum#4734",
+                    "DiscordID": "496367282667257867",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "GameBreaker75#2348",
+                    "DiscordID": "311653382756499456",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "IBringOda#6440",
+                    "DiscordID": "458542061319094293",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Gilded#0552",
+                    "DiscordID": "297235990194683905",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_e3471bc9-bb53-4f5f-8b93-dfe26fb1ae5f",
+                    "VRChatID": "usr_e3471bc9-bb53-4f5f-8b93-dfe26fb1ae5f"
+                },
+                {
+                    "DiscordTag": "Tec#1502",
+                    "DiscordID": "134869338002948096",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "LegoshiWolfy208#3506",
+                    "DiscordID": "812371946746282014",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "NullJester#0111",
+                    "DiscordID": "426857123146760192",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Ninth Wound#9999",
+                    "DiscordID": "922335909477769237",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_d931392d-20b6-4564-944b-03249c7fe425",
+                    "VRChatID": "usr_d931392d-20b6-4564-944b-03249c7fe425"
+                },
+                {
+                    "DiscordTag": "Rig#6917",
+                    "DiscordID": "131917598639128577",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "skrapthehusky#9922",
+                    "DiscordID": "350979778746122240",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "pizzadog#1337",
+                    "DiscordID": "268890713872269313",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "strix#6969",
+                    "DiscordID": "456538974794809344",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "EltonTheIdiot#0420",
+                    "DiscordID": "891855128947200061",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_bd636ceb-4b36-4436-af32-2e5a47958c42",
+                    "VRChatID": "usr_bd636ceb-4b36-4436-af32-2e5a47958c42"
+                },
+                {
+                    "DiscordTag": "ImTim#7857",
+                    "DiscordID": "199929668378427392",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Matthew (0'5\")#0696",
+                    "DiscordID": "361922415011430420",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "Zander da folf#1056",
+                    "DiscordID": "808000868057088032",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "EnderBoy002#2752",
+                    "DiscordID": "381175848751071232",
+                    "VRChatLink": "https://vrchat.com/home/user/usr_edaca18b-7921-4876-bc5d-711b12c3731a",
+                    "VRChatID": "usr_edaca18b-7921-4876-bc5d-711b12c3731a"
+                },
+                {
+                    "DiscordTag": "~Trissy~#0420",
+                    "DiscordID": "438059236560207875",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                },
+                {
+                    "DiscordTag": "\ud835\udc12\ud835\udc21\ud835\udc22\ud835\udc25\ud835\udc28\ud835\udc21#0047",
+                    "DiscordID": "893890132774637578",
+                    "VRChatLink": "",
+                    "VRChatID": ""
+                }
+            ]
+        }
+    ]
+}
